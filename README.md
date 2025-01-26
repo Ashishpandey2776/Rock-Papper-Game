@@ -1,4 +1,4 @@
--A simple implementation of the classic Rock, Paper, Scissors game. Users can play with friend, and the game keeps track of the score.
+ -A simple implementation of the classic Rock, Paper, Scissors game. Users can play with friend, and the game keeps track of the score.
 - Score tracking
 - Simple and intuitive user interface
 - Responsive design
