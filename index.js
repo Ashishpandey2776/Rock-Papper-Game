@@ -1,4 +1,3 @@
-
 const userscore=document.querySelector("#user-score");
 const compscore=document.querySelector("#comp-score");
 let usercnt=0;
